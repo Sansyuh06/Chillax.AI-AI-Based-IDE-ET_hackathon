@@ -150,6 +150,3 @@ IDE/
 └── README.md
 ```
 
-## License
-
-MIT
